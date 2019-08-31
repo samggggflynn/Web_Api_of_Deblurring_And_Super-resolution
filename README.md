@@ -1,10 +1,10 @@
 # Web_Api_of_Deblurring_And_Super-resolution
 	
-	Python language development,based on flask-python web framework,Front-end back-end separation, only provide the backend interface,use postman's HTTP simulation request for testing.
+Python language development,based on flask-python web framework,Front-end back-end separation, only provide the backend interface,use postman's HTTP simulation request for testing.
 	
 # 图像解模糊和超分辨率还原的Web接口
 
-	图像解模糊（deblurring）和图像超分辨率还原（Super-resolution）深度学习框架tensorflow和torch，并实现web后端基于python-Flask框架的接口，python语言。
+图像解模糊（deblurring）和图像超分辨率还原（Super-resolution）深度学习框架tensorflow和torch，并实现web后端基于python-Flask框架的接口，python语言。
 
 *可以搭建自己的图像处理网站。*
 

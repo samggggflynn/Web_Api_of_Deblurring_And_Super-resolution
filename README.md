@@ -43,4 +43,4 @@ Python language development,based on flask-python web framework,Front-end back-e
 
 ![](/static/20190901022846.png)
 
-如果测试单张，或测试解模糊，修改`2`处的`url`和`4`处的KEY值，在`5`处上传单张图片。
+如果测试单张，或测试解模糊，修改`2`处的`url`和`4`处的KEY值，在`5`处上传单张图片。最后点击右上角的`SEND`按钮等待返回结果。
